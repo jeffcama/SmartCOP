@@ -1,0 +1,10 @@
+C:\Users\jeffc\Documents\VS Projects\SmartCOP\bin\Release\SmartCOP.exe.config
+C:\Users\jeffc\Documents\VS Projects\SmartCOP\bin\Release\SmartCOP.exe
+C:\Users\jeffc\Documents\VS Projects\SmartCOP\bin\Release\SmartCOP.pdb
+C:\Users\jeffc\Documents\VS Projects\SmartCOP\obj\Release\SmartCOP.csprojAssemblyReference.cache
+C:\Users\jeffc\Documents\VS Projects\SmartCOP\obj\Release\SmartCOP.Form1.resources
+C:\Users\jeffc\Documents\VS Projects\SmartCOP\obj\Release\SmartCOP.Properties.Resources.resources
+C:\Users\jeffc\Documents\VS Projects\SmartCOP\obj\Release\SmartCOP.csproj.GenerateResource.cache
+C:\Users\jeffc\Documents\VS Projects\SmartCOP\obj\Release\SmartCOP.csproj.CoreCompileInputs.cache
+C:\Users\jeffc\Documents\VS Projects\SmartCOP\obj\Release\SmartCOP.exe
+C:\Users\jeffc\Documents\VS Projects\SmartCOP\obj\Release\SmartCOP.pdb
